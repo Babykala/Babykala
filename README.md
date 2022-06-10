@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”FULL STACK DEVELOPER.png” alt=”alt text” width=”200"/>
+
 <!--
 **Babykala/Babykala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
