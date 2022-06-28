@@ -1,4 +1,4 @@
-I’m currently learning full stack in javascript(React and Node js) and also AWS cloud database
+I have learnt full stack development in javascript(React and Node js)
 
 <!--
 **Babykala/Babykala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
